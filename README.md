@@ -1,5 +1,5 @@
 # ror
-Ejemplo con los mejores alumnos de todo el multiverso
+Ejemplo con los mejores alumnos de todo el multiverso en Rama1
 Proximos Pasos:
 1.-HTML
 2.-CSS
